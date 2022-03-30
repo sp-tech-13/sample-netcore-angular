@@ -45,5 +45,5 @@ export class AccountService {
         }
         return user;
       }));
-  }
+    }
 }
